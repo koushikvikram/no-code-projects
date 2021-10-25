@@ -10,7 +10,7 @@ Contents:
 - [Mobile App - New York City Graffiti Guide](https://github.com/koushikvikram/no-code-projects#mobile-app---new-york-city-graffiti-guide)
 - [Awesome Slack Bot](https://github.com/koushikvikram/no-code-projects#awesome-slack-bot)
 
-## Scraping [https://angel.co/](Angel.co) for Education Startups
+## Scraping [Angel.co](https://angel.co/) for Education Startups
 
 ![](images/angel-education-scraped-data.png)
 
