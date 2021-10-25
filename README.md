@@ -14,6 +14,8 @@ Contents:
 
 ![](images/angel-education-scraped-data.png)
 
+<br><br>
+
 ## Bitcoin Price Tweeter Bot
 
 ![](images/bitcoin-price-tracker.png)
@@ -22,20 +24,35 @@ Contents:
 
 ![](images/twitter.jpg)
 
+<br><br>
+
 ## Single Page Website
 
 ![](images/carrd-compounding-copy-final.png)
+
+<br><br>
 
 ## FAANG Stock Price Tracker Alexa Voice App
 
 ![](images/faang-stock-tracker-voiceflow-export.png)
 
+<br><br>
+
 ## Mobile App - New York City Graffiti Guide
 
 ![](images/glideapp.png)
+
+<br><br>
 
 ## Awesome Slack Bot
 
 ![](images/zapier-slack-bot.png)
 
 ![](images/zapier-slack-bot-message.png)
+
+<br><br>
+
+----------------------------------------------------
+END OF REPOSITORY
+
+----------------------------------------------------
